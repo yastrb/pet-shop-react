@@ -2,3 +2,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: "TTNorms";
+    src: url("../src/style/fonts/TTNorms-Regular.otf") format('opentype'),
+        url("../src/style/fonts/TTNorms-Bold.otf") format('opentype');
+}
+
+/* .arrow {
+    @apply ;
+}; */
